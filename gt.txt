@@ -7,4 +7,4 @@ images/demo_6.png   merry
 images/demo_7.png   underground
 images/demo_8.jpg   ronaldo
 images/demo_9.jpg   ballys
-images/demo_10.jpg  university
+images/demo_10.jpg   university

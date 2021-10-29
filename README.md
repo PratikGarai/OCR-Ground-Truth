@@ -33,11 +33,11 @@ data
     ├── word_3.png
     └── ...
 ```
-At this time, `gt.txt` should be `{imagepath}\t{label}\n` <br>
+At this time, `gt.txt` should be `{imagepath}   {label}\n` (3 spaces)<br>
 For example
 ```
-test/word_1.png Tiredness
-test/word_2.png kills
-test/word_3.png A
+test/word_1.png   Tiredness
+test/word_2.png   kills
+test/word_3.png   A
 ...
 ```
